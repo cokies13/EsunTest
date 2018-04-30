@@ -1,6 +1,7 @@
 
 public class xxdd {
 int y=2;
-int x=2;
+int x=3;
+int n=0;
 
 }
